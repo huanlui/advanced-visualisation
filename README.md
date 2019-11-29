@@ -12,6 +12,11 @@ Para instalarlo en caso de Mac y Conda, de acuerdo con [estas instrucciones](htt
 ```
 conda install -c conda-forge altair vega_datasets notebook vega
 ```
+
+## Pingendo
+
+Software que nos hemos bajado para crear webs de forma rápida. 
+
 # Otros chascarrillos
 
 Hay un notebook que 
