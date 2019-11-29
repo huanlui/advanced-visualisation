@@ -1,10 +1,20 @@
-# advanced-visualisation
+# Advanced Visualisation
 
-Estamos usando notebooks hechos con Google Colab. 
+## Altair
 
-Enlace a nuestro colab: https://colab.research.google.com/drive/1Z764j27LJ_sF0h4-umZXdLsV8Ojtekd6
+Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite, and the source is available on GitHub.
 
+With Altair, you can spend more time understanding your data and its meaning. Altair’s API is simple, friendly and consistent and built on top of the powerful Vega-Lite visualization grammar. This elegant simplicity produces beautiful and effective visualizations with a minimal amount of code.
+
+Para instalarlo en caso de Mac y Conda, de acuerdo con [estas instrucciones](https://altair-viz.github.io/getting_started/installation.html)
+, hay que:
+
+```
+conda install -c conda-forge altair vega_datasets notebook vega
+```
 # Otros chascarrillos
+
+Hay un notebook que 
 
    Si nos da tiempo, estaría bien que probaséis la herramienta siguiente:
 https://streamlit.io/
